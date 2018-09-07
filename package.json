@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/IKatsuba/tslint/issues"
   },
-  "homepage": "https://github.com/IKatsuba/tslint#readme"
+  "homepage": "https://github.com/IKatsuba/tslint#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
