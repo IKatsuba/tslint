@@ -1,6 +1,6 @@
 {
   "name": "@katsuba/tslint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "TSLint rules for projects by Igor Katsuba",
   "main": "tslint.json",
   "scripts": {
